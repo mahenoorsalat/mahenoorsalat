@@ -1,5 +1,5 @@
 <a href="https://mahenoorsalat.io" style="display: block; width: 100%;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-_ahoSJuID4bpm2JfVY5910XBUwn0FSulA&s" alt="MasterHead" style="width: 100%;">
+    <img src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" style="width: 100%;">
 </a>
 
 
