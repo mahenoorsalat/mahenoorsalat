@@ -1,7 +1,12 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-_ahoSJuID4bpm2JfVY5910XBUwn0FSulA&s)](https://mahenoorsalat.io)
+<a href="https://mahenoorsalat.io" style="display: block; width: 100%;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-_ahoSJuID4bpm2JfVY5910XBUwn0FSulA&s" alt="MasterHead" style="width: 100%;">
+</a>
+
+
 <h1 align="center">Hi 👋, I'm Mahenoor Salat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coder" width="400" src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfFWbVbxxZ8wcE-dVRlu5uxmpxMPfFI-0O3g&s">
+
+<img align="right" alt="Coder" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfFWbVbxxZ8wcE-dVRlu5uxmpxMPfFI-0O3g&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahenoorsalat&label=Profile%20views&color=0e75b6&style=flat" alt="mahenoorsalat" /> </p>
 
