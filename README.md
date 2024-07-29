@@ -3,7 +3,7 @@
 </a>
 
 
-<h1 align="center">Hi 👋, I'm Mahenoor Salat and I'm a Open Source Contributor, from India</h1>
+<h1 align="center">Hi 👋, I'm Mahenoor Salat</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <img align="right" alt="Coder" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfFWbVbxxZ8wcE-dVRlu5uxmpxMPfFI-0O3g&s">
