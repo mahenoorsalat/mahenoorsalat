@@ -35,13 +35,14 @@ fields_of_interests:
 currently_preparing_for: ["Internship","GSOC","Job"]
 ```
 
->### CONNECT WITH ME: 
+### CONNECT WITH ME: 
 <!-- [![My socials](https://skillicons.dev/icons?i=linkedin,twitter,github)](https://skillicons.dev) -->
-[<img src= "https://img.shields.io/twitter/follow/MahenoorSalat?label=Upwork&logo=Upwork&style=for-the-badge&color=blue"/>
-[<img src= "https://img.shields.io/twitter/follow/MahenoorSalat?label=Fiverr&logo=Fiverr&style=for-the-badge&color=blue"/>]
-[<img src= "https://img.shields.io/twitter/follow/MahenoorSalat?label=Freelancer&logo=Freelancer&style=for-the-badge&color=blue"/>]
-[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
-[<img src ="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>]
+[<img src="https://img.shields.io/twitter/follow/MahenoorSalat?label=Upwork&logo=Upwork&style=for-the-badge&color=blue" alt="Upwork" />](https://www.upwork.com/freelancers/~017b36696fdb312255)
+[<img src="https://img.shields.io/twitter/follow/MahenoorSalat?label=Fiverr&logo=Fiverr&style=for-the-badge&color=blue" alt="Fiverr" />](https://www.fiverr.com/mahenoorsalat?up_rollout=true)
+[<img src="https://img.shields.io/twitter/follow/MahenoorSalat?label=Freelancer&logo=Freelancer&style=for-the-badge&color=blue" alt="Freelancer" />](https://www.freelancer.in/u/mahenoorsalat)
+[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/mahenoor-salat/)
+[<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/mahenoorsalat)
+
 
 <br></br> 
 
