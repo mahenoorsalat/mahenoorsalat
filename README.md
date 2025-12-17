@@ -1,68 +1,18 @@
-# 👋 Hi, I'm **Mahenoor Salat**
+<h1 align="center">Hi 👋, I'm Mahenoor Salat</h1>
+<h3 align="center">Full-Stack Web & App Developer | UI/UX Designer | SEO Expert | GSoC & Hackathon Contributor</h3>
 
-### Full-Stack Developer • UI/UX Engineer • Open-Source Contributor  
+I'm a versatile developer and designer skilled in building high-performance, responsive applications and interfaces. Experienced in React, Next.js, MERN, Python, AI/ML fundamentals, automation, Web3 integrations, and SEO-optimized workflows.  
 
-Building scalable web + mobile systems with modern JavaScript, Python, and cloud-native tooling.
+Currently contributing to open source, freelance projects, and high-impact tech initiatives.
 
----
+### Connect with me
+[Portfolio](https://thefullstackdev.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/salat-mahenoor/) • [Fiverr](https://www.fiverr.com/salat_mahenoor?source=gig_page) • [Upwork](https://www.upwork.com/freelancers/~017b36696fdb312255)
 
-## ⚡ About Me
+### Skills
+**Frontend:** React, Next.js, Tailwind, Bootstrap, Vue, Nuxt  
+**Backend:** Node.js, Django, Python, FastAPI, REST APIs, Supabase, PostgreSQL, MongoDB  
+**Mobile:** React Native, Flutter  
+**Design & Prototyping:** Figma, Photoshop, Illustrator, Framer, GSAP, Motion Design  
+**Other:** AI API Integrations, Automation, SEO, Web3, No-Code Tools
 
-- Full-stack developer working across React, Next.js & Node
-- UI/UX engineer delivering scalable, responsive design systems
-- Contributor to open-source, hackathons & high-impact projects
-- Interested in internships, funded open-source & GSoC pathways
-
----
-
-## 🧩 Tech Stack  
-
-### **Frontend**
-React • Next.js • Tailwind • GSAP • HTML • CSS • TypeScript  
-
-### **Backend**
-Node.js • Express • Python • Django • FastAPI • REST APIs  
-
-### **Databases**
-PostgreSQL • MongoDB • Supabase  
-
-### **Tools & Platforms**
-GitHub • Docker • Cloudflare • Vercel • GCP  
-
-### **Design & Prototyping**
-Figma • Photoshop • Illustrator • Framer  
-
----
-
-## 📌 Highlights
-
-- Built interfaces and frontend systems improving performance by **45%** :contentReference[oaicite:1]{index=1}
-- Designed and deployed LMS + React modules for student workflows :contentReference[oaicite:2]{index=2}
-- Worked on blockchain dashboards + decentralized trading UI :contentReference[oaicite:3]{index=3}
-- Developing scalable Next.js + AI integrated platforms (2025–Present) :contentReference[oaicite:4]{index=4}
-- UI/UX + SEO specialization for modern full-stack systems
-
----
-
-## 🏗 Current Work
-
-- Contract + full-stack freelance engineering
-- Contributing to open-source communities
-- Building automation + AI powered systems
-- Preparing for GSoC + internship opportunities
-
----
-
-## 🚀 Portfolio & Links
-
-- Portfolio → thefullstackdev.vercel.app  
-- LinkedIn → /in/salat-mahenoor  
-- Upwork + Fiverr → Available for collaboration  
-
----
-
-## 📬 Contact  
-
-Feel free to connect for freelance projects, collaboration, or open-source roles:  
-
-**Email:** salatmahenoor7.8.6@gmail.com
+-- Mahenoor
